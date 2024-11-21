@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome to Kevin Liu's GitHub!
 
-<!--
-**yjliu212/yjliu212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Geoscientist | Rock Physics Expert | Machine Learning Enthusiast**  
+🚀 Combining geophysics and AI to solve subsurface challenges.
 
-Here are some ideas to get you started:
+## About Me
+- 15+ years of experience in rock physics, geomechanics, and QI.
+- Specializing in pore pressure prediction and seismic analysis.
+- Passionate about integrating AI and machine learning in geophysics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Explore My Work
+- 🌐 Visit my portfolio: [https://yjliu212.github.io/Kevin_Liu/](https://yjliu212.github.io/Kevin_Liu/)
+- 📂 Featured Repositories:
+  - [Predict Beta Function Using Neural Network](https://github.com/yjliu212/Predict-Beta-Function-Using-Neural-Network): DNN model for pore pressure prediction.
+  - [Basin-wide Rock Physics](https://github.com/yjliu212/Basin-wide_rock_physics): Comprehensive rock physics modeling.
+
+## Get in Touch
+- 📧 Email: [yjliu2007@gmail.com](mailto:yjliu2007@gmail.com)
+- 🌐 LinkedIn: [linkedin.com/in/kevin-liu-geophysics](https://www.linkedin.com/in/kevin-liu-geophysics)
