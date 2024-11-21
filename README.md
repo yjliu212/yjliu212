@@ -16,4 +16,5 @@
 
 ## Get in Touch
 - 📧 Email: [yjliu2007@gmail.com](mailto:yjliu2007@gmail.com)
-- 🌐 LinkedIn: [linkedin.com/in/kevin-liu-geophysics](https://www.linkedin.com/in/kevin-liu-geophysics)
+- 🌐 LinkedIn: [[linkedin.com/in/kevin-liu-geophysics](https://www.linkedin.com/in/kevin-liu-geophysics)
+](https://www.linkedin.com/in/yangjun-kevin-liu-15004046/)
