@@ -5,7 +5,7 @@
 
 ## About Me
 - 15+ years of experience in rock physics, geomechanics, and QI.
-- Specializing in pore pressure prediction and seismic analysis.
+- Specializing in pore pressure prediction and rock physics.
 - Passionate about integrating AI and machine learning in geophysics.
 
 ## Explore My Work
