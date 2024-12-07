@@ -12,8 +12,6 @@ I am a seasoned geoscientist with over 15 years of experience in rock physics, q
 
 - **[Stress-concentration-and-wellbore-breakout](https://github.com/yjliu212/Stress-concentration-and-wellbore-breakout):** Analyzes stress concentration around wellbores and the potential for breakout scenarios.
 
-- **[SRBToolbox](https://github.com/yjliu212/SRBToolbox):** A fork of the Stanford Rock Physics Toolbox, providing MATLAB tools for rock physics analysis.
-
 - **[Stress-concentration---3D](https://github.com/yjliu212/Stress-concentration---3D):** Visualizes stress concentration around wellbores in a 3D context.
 
 - **[Predict-Beta-Function-Using-Neural-Network](https://github.com/yjliu212/Predict-Beta-Function-Using-Neural-Network):** Utilizes deep neural networks to predict the diagenesis Beta function, crucial for pore pressure prediction.
