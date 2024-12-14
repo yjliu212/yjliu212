@@ -17,6 +17,9 @@ I am a seasoned geoscientist with over 15 years of experience in rock physics, q
 - **[Predict-Beta-Function-Using-Neural-Network](https://github.com/yjliu212/Predict-Beta-Function-Using-Neural-Network):** Utilizes deep neural networks to predict the diagenesis Beta function, crucial for pore pressure prediction.
 
 - **[Using-ML-to-Discover-New-Physical-Model](https://github.com/yjliu212/Using-ML-to-Discover-New-Physical-Model):** Explores machine learning techniques to uncover new physical models for seafloor temperature estimation.
+  
+- **[Lithology-Classification-Using-Deep-Neural-Network](https://github.com/yjliu212/Lithology-Classification-Using-Deep-Neural-Network):** Implements machine learning to classify lithology using seismic attributes (Vp, Density, PR) and deep neural networks for geophysical interpretation.
+
 
 ## Connect with Me
 
