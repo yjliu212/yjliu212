@@ -1,4 +1,4 @@
-# Welcome to Kevin Liu's GitHub Page
+# Welcome to Yangjun (Kevin) Liu's GitHub Page
 
 I am a seasoned geoscientist with over 15 years of experience in rock physics, quantitative interpretation (QI), and geomechanics, specializing in pore pressure prediction. My work integrates advanced machine learning techniques with geophysical modeling to address complex subsurface challenges.
 
