@@ -4,9 +4,6 @@ I am a seasoned geoscientist with over 15 years of experience in rock physics, q
 
 ## Repository Overview
 
-**Fun Stuff**
-- **[Snap2PDF](https://www.snap2pdf.net):** A web app that transforms photos of documents into searchable PDFs. Built with a focus on accessibility and simplicity, Snap2PDF is perfect for organizing and digitizing your paperwork.
-
 **Machine Learning and Neural Networks:**
 - **[Predict-Beta-Function-Using-Neural-Network](https://github.com/yjliu212/Predict-Beta-Function-Using-Neural-Network):** Utilizes deep neural networks to predict the diagenesis Beta function, crucial for pore pressure prediction.
 
@@ -25,6 +22,9 @@ I am a seasoned geoscientist with over 15 years of experience in rock physics, q
 - **[Stress-concentration-and-wellbore-breakout](https://github.com/yjliu212/Stress-concentration-and-wellbore-breakout):** Analyzes stress concentration around wellbores and the potential for breakout scenarios.
 
 - **[Stress-concentration---3D](https://github.com/yjliu212/Stress-concentration---3D):** Visualizes stress concentration around wellbores in a 3D context.
+  
+**Fun Stuff**
+- **[Snap2PDF](https://www.snap2pdf.net):** A web app that transforms photos of documents into searchable PDFs. Built with a focus on accessibility and simplicity, Snap2PDF is perfect for organizing and digitizing your paperwork. [Repository](https://github.com/yjliu212/snap2pdf)
 
 ## Connect with Me
 
