@@ -4,6 +4,9 @@ I am a seasoned geoscientist with over 15 years of experience in rock physics, q
 
 ## Repository Overview
 
+**Fun Stuff**
+- [Snap2PDF](https://www.snap2pdf.net): A web app that transforms photos of documents into searchable PDFs. Built with a focus on accessibility and simplicity, Snap2PDF is perfect for organizing and digitizing your paperwork.
+
 **Machine Learning and Neural Networks:**
 - **[Predict-Beta-Function-Using-Neural-Network](https://github.com/yjliu212/Predict-Beta-Function-Using-Neural-Network):** Utilizes deep neural networks to predict the diagenesis Beta function, crucial for pore pressure prediction.
 
