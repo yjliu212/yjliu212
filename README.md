@@ -24,7 +24,7 @@ I am a seasoned geoscientist with over 15 years of experience in rock physics, q
 - **[Stress-concentration---3D](https://github.com/yjliu212/Stress-concentration---3D):** Visualizes stress concentration around wellbores in a 3D context.
   
 **Fun Stuff and Web Apps:**
-- **[Snap2PDF](https://www.snap2pdf.net):** A web app that transforms photos of documents into searchable PDFs. Built with a focus on accessibility and simplicity, Snap2PDF is perfect for organizing and digitizing your paperwork. [Repository](https://github.com/yjliu212/snap2pdf)
+- **[Snap2PDF](https://www.snap2pdf.net):** A web app that transforms photos of documents into searchable PDFs. Built with a focus on accessibility and simplicity, Snap2PDF is perfect for organizing and digitizing your paperwork.
 
 - **[Rock Physics Templates (RPTs)](https://www.rockphysicstemplates.com):** A web app designed to streamline rock physics analysis by allowing users to input, visualize, and manipulate rock physics templates. The app supports dynamic column creation, formula-based calculations, normalization, and neural networks.
 
