@@ -26,6 +26,8 @@ I am a seasoned geoscientist with over 15 years of experience in rock physics, q
 **Fun Stuff and Web Apps:**
 - **[Snap2PDF](https://www.snap2pdf.net):** A web app that transforms photos of documents into searchable PDFs. Built with a focus on accessibility and simplicity, Snap2PDF is perfect for organizing and digitizing your paperwork. [Repository](https://github.com/yjliu212/snap2pdf)
 
+- **[Rock Physics Templates (RPTs)](https://www.rockphysicstemplates.com):** A web app designed to streamline rock physics analysis by allowing users to input, visualize, and manipulate rock physics templates. The app supports dynamic column creation, formula-based calculations, normalization, and neural networks.
+
 ## Connect with Me
 
 - **Email:** [yjliu2007@gmail.com](mailto:yjliu2007@gmail.com)
