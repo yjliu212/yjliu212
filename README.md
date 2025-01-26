@@ -26,8 +26,6 @@ I am a seasoned geoscientist with over 15 years of experience in rock physics, q
 **Fun Stuff and Web Apps:**
 - **[Rock Physics Templates (RPTs)](https://www.rockphysicstemplates.com):** A web app designed to streamline rock physics analysis by allowing users to input, visualize, and manipulate rock physics templates. The app supports dynamic column creation, formula-based calculations, normalization, and neural networks.
 
-- **[Chucklebot](https://www.chucklebot.net):** A fun and interactive chatbot designed to bring laughter and entertainment through jokes, witty responses, and engaging conversations. Perfect for light-hearted moments and spreading joy in your day!
-
 ## Connect with Me
 
 - **Email:** [yjliu2007@gmail.com](mailto:yjliu2007@gmail.com)
